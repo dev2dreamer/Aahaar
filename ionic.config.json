@@ -1,0 +1,7 @@
+{
+  "name": "Aahaar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
